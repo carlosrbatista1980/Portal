@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal", "Portal\Portal.csproj", "{46D80020-C4D5-4AA1-B243-D21382BC52BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A27AC57A-AA0D-418A-97A4-68A8C031BD41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{DF3B7ABB-C6E4-40A3-8C3D-D63F610012B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D11B1911-9C5F-439A-800F-26A36C91FBEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{3C2A1774-2DCF-4785-9CDC-DF58B6669B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46D80020-C4D5-4AA1-B243-D21382BC52BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D80020-C4D5-4AA1-B243-D21382BC52BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D80020-C4D5-4AA1-B243-D21382BC52BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D80020-C4D5-4AA1-B243-D21382BC52BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{46D80020-C4D5-4AA1-B243-D21382BC52BE} = {A27AC57A-AA0D-418A-97A4-68A8C031BD41}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0918CB18-AE77-418E-AAF8-13EC0516D3BC}
+	EndGlobalSection
+EndGlobal
