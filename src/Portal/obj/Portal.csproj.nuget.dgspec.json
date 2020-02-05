@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Portal\\Portal\\Portal.csproj": {}
+    "D:\\Projetos\\Portal\\src\\Portal\\Portal.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Portal\\Portal\\Portal.csproj": {
+    "D:\\Projetos\\Portal\\src\\Portal\\Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Portal\\Portal\\Portal.csproj",
-        "projectName": "Portal",
-        "projectPath": "D:\\Projetos\\Portal\\Portal\\Portal.csproj",
+        "projectUniqueName": "D:\\Projetos\\Portal\\src\\Portal\\Portal.csproj",
+        "projectName": "Portal.Web",
+        "projectPath": "D:\\Projetos\\Portal\\src\\Portal\\Portal.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Portal\\Portal\\obj\\",
+        "outputPath": "D:\\Projetos\\Portal\\src\\Portal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,13 +1,13 @@
-HttpAbstractions [Archived]
+GamePortal
 ===========================
 
-**This GitHub project has been archived.** Ongoing development on this project can be found in https://github.com/aspnet/AspNetCore.
+This project is for serves as template for new game portals or comercial ones
+theres a default theme, database and login/register ready.
 
-Contains HTTP abstractions for ASP.NET Core such as `HttpContext`, `HttpRequest`, `HttpResponse` and `RequestDelegate`.
+before starts to use access package manage and Update-Database to create the database
+and seeds it.
 
-It also contains `IApplicationBuilder` and extensions to create and compose your application's pipeline.
 
-This project is part of ASP.NET Core. You can find samples, documentation and getting started instructions for ASP.NET Core at the [AspNetCore](https://github.com/aspnet/AspNetCore) repo.
 
 
 
